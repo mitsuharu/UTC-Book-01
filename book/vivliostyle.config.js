@@ -13,8 +13,10 @@ module.exports = {
     'index.md',
     // はじめに
     'preface.md',
+
     // 各章の原稿
-    'sample_chapter.md', // サンプル用ページです。執筆時は削除してください。
+    // （順番は適当で大丈夫です。ここはコンフリクトしやすいので注意してください）
+    'emoto.md',
 
     // 著者紹介
     'authors.md',
