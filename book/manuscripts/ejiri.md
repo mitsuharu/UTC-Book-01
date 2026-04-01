@@ -4,7 +4,7 @@ class: content
 
 <div class="doc-header">
   <div class="doc-title">ウベテックコミュニティについて</div>
-  <div class="doc-author"></div>
+  <div class="doc-author">江尻篤史</div>
 </div>
 
 # ウベテックコミュニティについて

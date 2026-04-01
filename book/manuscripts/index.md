@@ -10,6 +10,6 @@ class: exclude-hashira
 
 1. [はじめに](preface.html)
 1. [地方住みエンジニアの生存戦略 - 学生編 | 江本光晴](emoto.html)
-1. [ウベテックコミュニティについて](ejiri.html)
+1. [ウベテックコミュニティについて | 江尻篤史](ejiri.html)
 
 </nav>
