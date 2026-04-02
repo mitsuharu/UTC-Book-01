@@ -10,6 +10,7 @@ class: exclude-hashira
 
 1. [はじめに](preface.html)
 1. [地方住みエンジニアの生存戦略 - 学生編 | 江本光晴](emoto.html)
+1. [身体性LLMはデジタルディバイドを超えるか——長門市での実践 | 山田真希](yamada.html)
 1. [ウベテックコミュニティについて | 江尻篤史](ejiri.html)
 
 </nav>
