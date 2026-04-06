@@ -18,6 +18,7 @@ module.exports = {
     // （順番は適当で大丈夫です。ここはコンフリクトしやすいので注意してください）
     'emoto.md',
     'yamada.md',
+    'shoco.md',
 
     'ejiri.md', // 最後に追加してください
 
