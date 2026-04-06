@@ -20,7 +20,6 @@ module.exports = {
     'yamada.md',
     'shoco.md',
     'crispytaffy.md',
-
     'ejiri.md', // 最後に追加してください
 
     // 著者紹介
