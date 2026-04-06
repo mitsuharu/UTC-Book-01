@@ -19,6 +19,7 @@ module.exports = {
     'emoto.md',
     'yamada.md',
     'shoco.md',
+    'crispytaffy.md',
 
     'ejiri.md', // 最後に追加してください
 
