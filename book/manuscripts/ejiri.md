@@ -76,3 +76,8 @@ class: content
 ### ウベテックコミュニティ  
 Ube Tech Community  
 （活動拠点：山口県宇部市）
+
+<!-- markdownlint-disable MD041 -->
+<hr class="page-break" />
+　
+<!-- markdownlint-enable MD041 -->
